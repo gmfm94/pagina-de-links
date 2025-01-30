@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: aliceblue;
+    background-color: black;
     display: block;
     margin: auto;
 }
@@ -27,8 +27,8 @@ article {
     border-style:hidden;
     border-color: aliceblue;
     border-radius: 20px 20px 20px 20px;
-    margin-top: 15px;
-    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.502);
+    margin-top: 45px;
+    /*box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.502);*/
 }
 
 article > p {
@@ -45,11 +45,12 @@ img {
 
 button {
     width: 250px;
-    height: 30px;
+    height: 45px;
     margin-bottom: 15px;
     border: 0;
     font-weight: bold;
     border-radius: 8px 8px 8px 8px;
+    
 }
 
 button#l:hover {
